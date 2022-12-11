@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mitun-at-work
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mitun Suresh
+- 👀 I’m interested in Machine Learning and Application Development
+- 🌱 I’m currently learning DataStructures and Algorithms
+- 💞️ I’m looking to collaborate on python related projects
+- 📫 Drop a mail to mitun.psna@gmail.com
 
 
 
