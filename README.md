@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mitun-suresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitun-suresh" height="30" width="40" /></a>
-<a href="https://instagram.com/mitun-20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mitun-20" height="30" width="40" /></a>
+<a href="https://instagram.com/mitun_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mitun-20" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mitun-suresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mitun-suresh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mitunpokkisham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mitunpokkisham" height="30" width="40" /></a>
 </p>
